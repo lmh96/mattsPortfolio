@@ -79,6 +79,7 @@ nav {
 
 #about-content {
     position: absolute;
+    justify-content: center;
     text-align: center;
     align-content: center;
     width: 90%;
@@ -87,7 +88,5 @@ nav {
 }
 
 #about-header {
-    text-align: center;
     font-size: 32px;
-    width: 300px;
 }
